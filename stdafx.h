@@ -1,0 +1,6 @@
+#ifndef STDAFX_H
+	#define STDAFX_H
+	
+	// PUT PROJECT SPECIFIC PRECOMPILED HEADERS HERE
+	
+#endif
