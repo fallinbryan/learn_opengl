@@ -1,6 +1,6 @@
 
 // g++ gltut1.cpp -o gltut1.exe -lglfw3 -lgdi32 -lglew32 -lopengl32
-
+#define GLEW_STATIC
 #include <stdio.h>
 #include <stdlib.h>
 #include <GL/glew.h>
